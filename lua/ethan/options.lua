@@ -46,8 +46,7 @@ vim.opt.inccommand = 'split'
 
 vim.opt.scrolloff = 10
 
-vim.opt.spelllang = 'en_gb'
-vim.opt.spell = true
+vim.opt.spell = false
 
 vim.opt.timeout = true
 vim.opt.timeoutlen = 600
